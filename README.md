@@ -17,12 +17,12 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
 
-<li> (plot) 30 mins preidction (similar img(t+1)) </li>
-<li> (plot) 1 hour preidction (similar img(t+1)) </li>
-<li> (plot) 3 hours preidction (similar img(t+1)) </li>
-<li> (plot) 6 hours preidction (similar img(t+1)) </li>
-<li> (plot) 12 hours preidction (similar img(t+1)) </li>
-<li> (plot) 24 hours preidction (similar img(t+1)) </li>
+<li> (plot) 30 mins preidction </li>
+<li> (plot) 1 hour preidction  </li>
+<li> (plot) 3 hours preidction  </li>
+<li> (plot) 6 hours preidction  </li>
+<li> (plot) 12 hours preidction </li>
+<li> (plot) 24 hours preidction </li>
 <li> (print) network error count </li>
 </ul>
 
@@ -39,7 +39,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 <li> (function) similar img finder </li>
 <li> (data) btc address mapping(mapping btc unknown address -> known player) table </li>
 <li> (data) btc historical price data updated (2020.09 - 2021.03) </li>
-<li> (plot) 30 mins preidction (similar img(t+1)) </li>
+<li> (plot) 30 mins preidction </li>
 <li> (print) ssim table   
   
 </ul>
