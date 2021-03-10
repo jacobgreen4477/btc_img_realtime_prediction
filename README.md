@@ -1,5 +1,7 @@
 # Recent Changes
 
+<li> visitor count </li>
+<li> export preidction </li>
 
 ## btc_img_realtime_prediction
 
