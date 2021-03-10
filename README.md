@@ -1,6 +1,4 @@
-# Recent Changes
-
-## btc_img_realtime_prediction
+# btc_img_realtime_prediction
 
 비트코인 가격 이미지 데이터를 활용한 비트코인 가격 예측
 1. 학습 데이터 기간 선정
@@ -19,6 +17,8 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 <li> 네트워크 문제로 서버가 가끔 멈춤 (작업 중) </li>
 
 </ul>
+
+# Recent Changes
 
 ### v0.0.2 - 2021/3/9
 
