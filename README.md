@@ -4,6 +4,15 @@
 
 URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
+## To-Do-List
+
+<ul>
+
+<li> (plot) network error count table </li>
+  
+</ul>
+
+
 ### v0.0.2 - 2021/3/9
 
 #### new features 
