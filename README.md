@@ -1,8 +1,5 @@
 # Recent Changes
 
-<li> visitor count </li>
-<li> export preidction </li>
-
 ## btc_img_realtime_prediction
 
 비트코인 가격 이미지 데이터를 활용한 비트코인 가격 예측
@@ -12,6 +9,13 @@
 4. 유사한 이미지의 다음 이미지를 예측값으로 return  
 
 URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
+
+할일
+<li> visitor count </li>
+<li> export preidction </li>
+
+이슈
+<li> 네트워크 문제로 서버가 가끔 멈춤 (작업 중) </li>
 
 ### v0.0.2 - 2021/3/9
 
