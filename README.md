@@ -10,7 +10,7 @@
 
 URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
-### 
+### 해야될 일들..
 
 <li> visitor count </li>
 <li> export preidction </li>
