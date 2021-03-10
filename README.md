@@ -9,10 +9,10 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 #### new features 
 <ul>
 
-</li> btc tx real-time downloader 
-</li> btc real-time price downlaoder  
-</li> btc address mapping(mapping btc unknown address -> known player) table 
-</li> markdown dashboard 
+<li> btc tx real-time downloader </li>
+<li> btc real-time price downlaoder </li>
+<li> btc address mapping(mapping btc unknown address -> known player) table </li>
+<li> markdown dashboard </li>
 
 </ul>
 
@@ -21,9 +21,9 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 #### new features 
 <ul>
 
-</li> btc tx real-time downloader 
-</li> btc real-time price downlaoder  
-</li> btc address mapping(mapping btc unknown address -> known player) table 
-</li> markdown dashboard 
+<li> btc tx real-time downloader </li>
+<li> btc real-time price downlaoder </li>
+<li> btc address mapping(mapping btc unknown address -> known player) table </li>
+<li> markdown dashboard </li>
 
 </ul>
