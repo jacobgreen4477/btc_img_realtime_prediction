@@ -14,6 +14,8 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
   
 <li> visitor count </li>
 <li> export preidction </li>
+<li> 상승장('20.09.01 - '21.03.15), 상승장2, 하락장, 횡보장 TAB 생성</li>
+<li> auto eval function 생성 -> 기존 ssim range01 resacle해서, prediction and realY의 scaled ssim 이 0.6이상이면 o, 아니면 x </li>
 <li> 네트워크 문제로 서버가 가끔 멈춤 (작업 중) </li>
 
 </ul>
