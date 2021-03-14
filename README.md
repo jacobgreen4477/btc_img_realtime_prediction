@@ -14,6 +14,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
  
 <li> connet with upbit api </li>
 <li> export preidction </li>
+<li> network error count 오작동 수정하기 </li>
 <li> auto eval function 생성 -> 기존 ssim range01 resacle해서, prediction and realY의 scaled ssim 이 0.6이상이면 o, 아니면 x </li>
 <li> 네트워크 문제로 서버가 가끔 멈춤 (작업 중) </li>
 <li> 경고문구 추가 -> 투자 시 보조지표로 사용하세요. 투자는 신중하게 하세요 등 </li>
@@ -38,12 +39,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
 
-<li> (plot) 30 mins preidction </li>
-<li> (plot) 1 hour preidction  </li>
-<li> (plot) 3 hours preidction  </li>
-<li> (plot) 6 hours preidction  </li>
-<li> (plot) 12 hours preidction </li>
-<li> (plot) 24 hours preidction </li>
+<li> (plot) 30분/1시간/3시간/12시간/24시간 예측모델 </li>
 <li> (print) network error count </li>
 
 </ul>
