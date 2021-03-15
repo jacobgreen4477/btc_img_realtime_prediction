@@ -12,12 +12,16 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
  
+<li> password website by shiny </li>
+<li> (statics) seller's address forcasting index based on tx -> count of more than -5% drops within 6/12 hours </li>
+<li> (ml) seller's address predictor -> based on tx, Y: count of -5% drops within 6/12 hours, Xs: address and amount of btc sented within the time interval </li>
+<li> connet with upbit api </li>
+<li> tx summary table에 location 추가 </li>
 <li> connet with upbit api </li>
 <li> export preidction </li>
 <li> network error count 오작동 수정하기 </li>
+<li> network error occasionally (작업 중) </li>
 <li> auto eval function 생성 -> 기존 ssim range01 resacle해서, prediction and realY의 scaled ssim 이 0.6이상이면 o, 아니면 x </li>
-<li> 네트워크 문제로 서버가 가끔 멈춤 (작업 중) </li>
-<li> 경고문구 추가 -> 투자 시 보조지표로 사용하세요. 투자는 신중하게 하세요 등 </li>
 
 </ul>
 
