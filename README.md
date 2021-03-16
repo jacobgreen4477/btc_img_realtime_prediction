@@ -12,12 +12,12 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
  
+<li> if amount btc > 1000, one warninng icon </li>
 <li> master application -> monitoring tx_tracker and img_finder if one of them dead, run it again: monitoring time_interval = 10min </li>
 <li> password website by shiny </li>
 <li> (statics) seller's address forcasting index based on tx -> count of more than -5% drops within 6/12 hours </li>
 <li> (ml) seller's address predictor -> based on tx, Y: count of -5% drops within 6/12 hours, Xs: address and amount of btc sented within the time interval </li>
 <li> connet with upbit api </li>
-<li> tx summary table에 location 추가 </li>
 <li> connet with upbit api </li>
 <li> export preidction </li>
 <li> network error count 오작동 수정하기 </li>
@@ -35,6 +35,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 <ul>
 
 <li> 상승장('20.09.01 - '21.03.15), 상승장2, 하락장, 횡보장 TAB 생성</li>
+<li> tx summary table에 location 추가 </li>
 
 </ul>
 
