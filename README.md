@@ -35,6 +35,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <li> 상승장('20.09.01 - '21.03.15), 상승장2, 하락장, 횡보장 TAB 생성</li>
 <li> tx summary table에 location 추가 </li>
+<li> if amount btc > 1000, one warninng icon </li>
 
 </ul>
 
@@ -46,7 +47,6 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <li> (plot) 30분/1시간/3시간/12시간/24시간 예측모델 </li>
 <li> (print) network error count </li>
-<li> if amount btc > 1000, one warninng icon </li>
 
 </ul>
 
