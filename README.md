@@ -12,6 +12,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
  
+<li> master application -> monitoring tx_tracker and img_finder if one of them dead, run it again: monitoring time_interval = 10min </li>
 <li> password website by shiny </li>
 <li> (statics) seller's address forcasting index based on tx -> count of more than -5% drops within 6/12 hours </li>
 <li> (ml) seller's address predictor -> based on tx, Y: count of -5% drops within 6/12 hours, Xs: address and amount of btc sented within the time interval </li>
