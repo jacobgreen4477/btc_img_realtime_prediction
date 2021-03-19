@@ -40,7 +40,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 <ul>
  
 #### auto-unkown address saver
-<li> 1. among unknown address, save the adress which more than 10,000 btc receiver in a day </li>
+<li> 1. among unknown address, save the address which more than 10,000 btc be sent in a day </li>
 <li> 2. collect those addresses and put them in a working list </li>
 <li> 3. and also check wheather on that day, btc price is up or down by what percentage </li>
 <li> 4. when have a time, search and analysis the address </li>
