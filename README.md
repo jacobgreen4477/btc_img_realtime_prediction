@@ -59,6 +59,8 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 <li> tx summary table에 location 추가 </li>
 <li> if amount btc > 1000, one warninng icon </li>
 <li> network error occasionally (작업 중->수정 완료) </li>
+<li> data github이랑 연동 </li>
+
 </ul>
 
 ### v0.0.2 - 2021/3/9
