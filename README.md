@@ -12,7 +12,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
  
-<li> github이랑 연동하기 -> 주소업데이트 </li>
+
 <li> buy and sell signal </li>
 <li> back-tesing function </li>
 <li> master application -> monitoring tx_tracker and img_finder if one of them dead, run it again: monitoring time_interval = 10min </li>
@@ -71,6 +71,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <li> (plot) 30분/1시간/3시간/12시간/24시간 예측모델 </li>
 <li> (print) network error count </li>
+<li> (btc_known_addr_list.csv) github이랑 연동</li>
 
 </ul>
 
