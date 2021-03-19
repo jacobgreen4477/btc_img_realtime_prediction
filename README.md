@@ -23,6 +23,7 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 <li> network error count 오작동 수정하기 </li>
 <li> network error occasionally (작업 중) </li>
 <li> auto eval function 생성 -> 기존 ssim range01 resacle해서, prediction and realY의 scaled ssim 이 0.6이상이면 o, 아니면 x </li>
+<li> 10000개 이상 전송을 하여도, 천천히 팔아서 이더나 USD테더 등으로 바꿔서 콜드웰렛으로 이동하는 경우도 존재 (2021.03.18) </li>
 
 </ul>
 
