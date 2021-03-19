@@ -47,6 +47,16 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 </ul>
 
+<ul>
+ 
+#### esemble model
+<li> 1. mutiple similar img which ssim is greater than the setted threshold </li>
+<li> 2. display mutiple prediction (t+1) based on (1) </li>
+<li> 3. calculate the prob based on (2) - vote </li>
+<li> 4. up and down decision rule, the % change of close price - open price is greater than 1% </li>
+
+</ul>
+
 # Recent Changes
 
 ### v0.0.3 - 2021/3/14
