@@ -26,6 +26,17 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 </ul>
 
+<ul>
+ 
+#### auto-eval function step 
+<li> 1. 실시간 데이터 저정하기  </li>
+<li> 2. 예측값 조회하기 </li>
+<li> 3. 평가하기 </li>
+<li> 4. 테이블 업데이트 </li>
+<li> 5. 출력하기 </li>
+
+</ul>
+
 # Recent Changes
 
 ### v0.0.3 - 2021/3/14
