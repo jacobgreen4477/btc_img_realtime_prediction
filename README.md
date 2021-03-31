@@ -12,6 +12,8 @@ URL : http://115.85.180.168:8787/files/app/btc_img_finder_20210306.html
 
 <ul>
  
+<li> 코인정보통 뉴스 웹크롤링 </li>
+<li> 업빗 바이낸스  공시 api </li>
 <li> 성공/실패 color 적용하기 </li>
 <li> 그림만 가지고 예측하는 건 역부족.. 모멘톰을 학습할 수 있게 해줘야 되는데 그림은 그걸 학습시켜 줄 수 없음.. 결국 ml이 적용되야 함 </li>
 <li> buy and sell signal </li>
